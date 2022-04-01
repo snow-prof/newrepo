@@ -2,5 +2,5 @@ test
 edit file2
 new edit
 edit file3
-Today is Friday
+Today is Friday yes
 Today is April Fool's Day
