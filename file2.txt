@@ -2,3 +2,4 @@ test
 edit file2
 new edit
 edit file3
+Today is Friday
