@@ -1,2 +1,3 @@
 test
 edit file2
+new edit
